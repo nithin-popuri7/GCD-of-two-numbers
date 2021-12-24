@@ -33,7 +33,7 @@ RegisterNumber:21003942
 
 
 ## Output:
-![gcd of two number](gcd.png)
+![github logo](manoj.png)
 
 
 ## Result:
